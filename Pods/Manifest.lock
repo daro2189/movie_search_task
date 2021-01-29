@@ -1,0 +1,42 @@
+PODS:
+  - Alamofire (5.4.1)
+  - AsyncSwift (2.0.4)
+  - Kingfisher (5.15.8):
+    - Kingfisher/Core (= 5.15.8)
+  - Kingfisher/Core (5.15.8)
+  - ObjectMapper (4.2.0)
+
+DEPENDENCIES:
+  - Alamofire (from `https://github.com/Alamofire/Alamofire.git`)
+  - AsyncSwift
+  - Kingfisher (~> 5.0)
+  - ObjectMapper (from `https://github.com/Hearst-DD/ObjectMapper.git`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - AsyncSwift
+    - Kingfisher
+
+EXTERNAL SOURCES:
+  Alamofire:
+    :git: https://github.com/Alamofire/Alamofire.git
+  ObjectMapper:
+    :git: https://github.com/Hearst-DD/ObjectMapper.git
+
+CHECKOUT OPTIONS:
+  Alamofire:
+    :commit: eaf6e622dd41b07b251d8f01752eab31bc811493
+    :git: https://github.com/Alamofire/Alamofire.git
+  ObjectMapper:
+    :commit: a593b4d647a970b3d184d046f8f52b945083ccf9
+    :git: https://github.com/Hearst-DD/ObjectMapper.git
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  AsyncSwift: 65775a7b32e740609b24969ece3de58723b9dc3e
+  Kingfisher: a3c03d702433fa6cfedabb2bddbe076fb8f2e902
+  ObjectMapper: 5a6c9f063ef67e7fc0d7eb8958919e3121396a96
+
+PODFILE CHECKSUM: b0efc4838287398646446f22854f8e522011de87
+
+COCOAPODS: 1.10.0

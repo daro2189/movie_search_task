@@ -1,0 +1,11 @@
+/*
+  Localizable.strings
+  MobileApplication
+
+  Copyright © 2021 Rapid Games Studio. All rights reserved.
+*/
+
+"Details" = "Details";
+"OK" = "OK";
+"No movies found..." = "No movies found...";
+"Movie Search" = "Movie Search";
